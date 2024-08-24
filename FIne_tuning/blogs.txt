@@ -1,0 +1,2 @@
+https://gathnex.medium.com/consumer-friendly-fine-tuning-with-microsoft-phi-1-5-4bd28ad18af7
+https://gathnex.medium.com/fine-tuning-llama-2-llm-on-google-colab-a-step-by-step-guide-dd79a788ac16
